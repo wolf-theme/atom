@@ -9,6 +9,6 @@
   4. Enter ```atom-wolf-theme``` in the search box
 
 ### Maintainer
-| <a href="https://github.com/devigor"><img src="https://avatars3.githubusercontent.com/u/14060827?v=3&u=074e2411d87410f21649cf4be852060eb04a75c5&s=400" style="width: 150px; height: 150px;">     |
-| :------------- |
-| <h3 style="text-align: center;">Igor Oliveira</h3></a>      |
+[![Igor Oliveira](https://avatars0.githubusercontent.com/u/14060827?v=3&s=70)](https://github.com/devigor) |
+--- |
+[Igor Oliveira](https://github.com/devigor) |

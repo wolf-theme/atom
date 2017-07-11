@@ -1,6 +1,7 @@
 # Wolf Theme for [Atom](https://atom.io)
-
-<img src="http://i.imgur.com/4pf71MX.png" style="text-align: center;">
+<p style="text-align: center;">
+  <img src="http://i.imgur.com/SRasjpO.png">
+</p>
 
 ### Instalation
   1. Go to ``` Edit > Preferences ```

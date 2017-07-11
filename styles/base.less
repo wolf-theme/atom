@@ -47,12 +47,16 @@ atom-text-editor {
   }
 
   .selection .region {
-    background-color: @syntax-selection-color;
+    background-color: @purple;
   }
 }
 
 
 // Syntax styles
+
+.syntax--body.syntax--bracket.syntax--curly {
+  color: @white;
+}
 
 .syntax--comment {
   color: @light-gray;
@@ -209,8 +213,7 @@ atom-text-editor {
   }
 
   &.syntax--name.syntax--tag {
-    color: @red;
-    text-decoration: underline;
+    color: @blue;
   }
 
   &.syntax--other.syntax--attribute-name {
